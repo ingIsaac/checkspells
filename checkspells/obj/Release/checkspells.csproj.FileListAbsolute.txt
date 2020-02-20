@@ -1,0 +1,6 @@
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\checkspells\checkspells\bin\Release\checkspells.exe.config
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\checkspells\checkspells\bin\Release\checkspells.exe
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\checkspells\checkspells\bin\Release\checkspells.pdb
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\checkspells\checkspells\obj\Release\checkspells.csprojResolveAssemblyReference.cache
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\checkspells\checkspells\obj\Release\checkspells.exe
+C:\Users\ISAAC\Documents\Visual Studio 2015\Projects\checkspells\checkspells\obj\Release\checkspells.pdb
